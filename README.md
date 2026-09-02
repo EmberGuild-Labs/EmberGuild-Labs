@@ -36,6 +36,9 @@ I build mainly on the Mac, host everything on the Pis (server's still looking fo
 
 No overpriced subscriptions, no ad-tracking, no corporate lock-in. Everything I ship aims to be open-source, ad-free, and private. permanently. More projects at [blaise.wtf](https://blaise.wtf).
 
+### 🕛 When I build
+<img src="https://github-readme-stats.vercel.app/api?username=EmberGuild-Labs&show_icons=true&theme=radical" />
+
 ### 🌐 Work with me
 
 I build everything free and open-source, but I also take on paid work. Details at [proxnode.xyz](https://proxnode.xyz).
