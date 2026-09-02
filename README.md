@@ -1,53 +1,41 @@
-## Independent developer building a self-hosted homelab ecosystem while learning about cybersecurity
+<h1 align="center">Hey, I'm Blaise 👋</h1>
+<p align="center">Independent developer building a self-hosted homelab ecosystem, learning cybersecurity along the way.</p>
 
-<!--
-**EmberGuild-Labs/EmberGuild-Labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://proxnode.xyz"><img src="https://img.shields.io/badge/homelab-proxnode.xyz-blue" /></a>
+  <a href="https://blaise.wtf"><img src="https://img.shields.io/badge/more_projects-blaise.wtf-informational" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### What I'm currently working on:
+### 🔭 Currently building
 
-CanvasMax:
-An alternative to BetterCampus. It has virtually all of the same features, minus the $120 per year bill.
+**CanvasMax** — an alternative to BetterCampus with the same core features, minus the $120/year price tag.
 
-Project Oryn:
-A custom browser that is based around anonymity and privacy protection. It can automatically connect to the tor network and spoof the device that you're on
+**Project Oryn** — a privacy-first browser: auto-connects to Tor, spoofs device fingerprinting.
 
-Hearth:
-A new set of file formats to replace normal ones. For large files, these simly take up less space than their alternatives. It comes with an app along with commands for more advanced operations such as encryption.
+**Hearth** — a set of file formats built to replace common ones, with smaller footprints on large files. Ships with an app and CLI for encryption and other advanced ops.
 
-### What I'm exploring
+### 🌱 Exploring right now
 
-Recently I've been working on learning more about how websites work, and can be compromised.
+Digging into how websites work under the hood, and how they get compromised.
 
-### What tech I use
+### 🛠️ Tech I build with
 
-For my projects, I use a variety of tech:
+| Category | Hardware |
+|---|---|
+| Daily driver | M3 MacBook Air |
+| Homelab | 2× Raspberry Pi 4, Dell PowerEdge R410 |
+| Security/dev | Flipper Zero |
+| Experimental | AR glasses (camera-free, Vision Pro alternative project) |
+| Fabrication | Bambu Lab A1 |
 
-- M3 Macbook Air
-- PC
-- AR Glasses (not the meta glasses, these have no camera)
-- Flipper Zero
-- Raspberry Pi 4 1GB
-- Raspberry Pi 4 2GB
-- Dell PowerEdge R410
-- Bambulab A1
+I build mainly on the Mac, host everything on the Pis (server's still looking for its purpose), use the Flipper for both app dev and offensive-security learning, and the glasses power a low-cost Vision Pro alternative project.
 
-I mainly build on my mac, but also branch out for these tools. I mainly use my glasses in a project to replace the vision pro, for less money. I use my flipper for developing new apps along with learning about how attacks work and can be prevented. I use my pis for hosting all of my sites and homelab until I find a good use for my server.
+### 💭 Why I build
 
-### What I build
+No overpriced subscriptions, no ad-tracking, no corporate lock-in. Everything I ship aims to be open-source, ad-free, and private. permanently. More projects at [blaise.wtf](https://blaise.wtf).
 
-I hate corporate greed. I build my projects with the goal of eliminating overpriced subscriptions for software, while preserving and improving privacy. I design everything with the goal of open source, ad-free, and fully private forever. I have even more projects [here](https://blaise.wtf)
+### 🌐 Work with me
 
-### Do you want a website?
-
-Although I make all of my projects free, I also sell services. Visit [proxnode.xyz](https://proxnode.xyz) for details!
+I build everything free and open-source, but I also take on paid work. Details at [proxnode.xyz](https://proxnode.xyz).
