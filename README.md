@@ -32,12 +32,17 @@ Digging into how websites work under the hood, and how they get compromised.
 
 I build mainly on the Mac, host everything on the Pis (server's still looking for its purpose), use the Flipper for both app dev and offensive-security learning, and the glasses power a low-cost Vision Pro alternative project.
 
+### 💬 Ask me about
+
+My PC specs, agents, what games I play, or how my projects are going!
+Contact Info:
+Email: me@blaise.wtf
+Discord: @blazze_24078
+
+
 ### 💭 Why I build
 
 No overpriced subscriptions, no ad-tracking, no corporate lock-in. Everything I ship aims to be open-source, ad-free, and private. permanently. More projects at [blaise.wtf](https://blaise.wtf).
-
-### 🕛 When I build
-<img src="https://github-readme-stats.vercel.app/api?username=EmberGuild-Labs&show_icons=true&theme=radical" />
 
 ### 🌐 Work with me
 
