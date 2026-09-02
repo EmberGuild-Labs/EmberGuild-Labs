@@ -16,6 +16,11 @@
 
 **Hearth** — a set of file formats built to replace common ones, with smaller footprints on large files. Ships with an app and CLI for encryption and other advanced ops.
 
+### About Me
+
+I have an obsession over tech, and am figuring out what path I want to take.
+But right now, I'm deciding if my Dell R410 will ever earn it's keep.
+
 ### 🌱 Exploring right now
 
 Digging into how websites work under the hood, and how they get compromised.
