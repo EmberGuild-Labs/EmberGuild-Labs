@@ -37,9 +37,10 @@ Digging into how websites work under the hood, and how they get compromised.
 
 I build mainly on the Mac, host everything on the Pis (server's still looking for its purpose), use the Flipper for both app dev and offensive-security learning, and the glasses power a low-cost Vision Pro alternative project.
 
-### 💬 Ask me about
+### 💬 Ask me about & Contact Info
 
 My PC specs, agents, what games I play, or how my projects are going!
+If you want to collaborate on a project just shoot me an email!
 Contact Info:
 Email: me@blaise.wtf
 Discord: @blazze_24078
