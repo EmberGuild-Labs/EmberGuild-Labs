@@ -24,6 +24,7 @@ But right now, I'm deciding if my Dell R410 will ever earn it's keep.
 ### 🌱 Exploring right now
 
 Digging into how websites work under the hood, and how they get compromised.
+I don't want to fall into the trap of subscriptions and locked down software.
 
 ### 🛠️ Tech I build with
 
